@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "258239997475",
+    "firebase_url": "https://reach-9cb37.firebaseio.com",
+    "project_id": "reach-9cb37",
+    "storage_bucket": "reach-9cb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258239997475:android:ebfe2578821a851e",
+        "android_client_info": {
+          "package_name": "com.tunesquad.reach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258239997475-v0aj9i30hv8hi9ichgqsr2i4g0ud0iii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQXQUlWB_4Uappll9ja_1EfE_QZjk_r8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
